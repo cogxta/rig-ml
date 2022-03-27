@@ -1,0 +1,5 @@
+git config --global user.email "connect@cogxta.com"
+git config --global user.name "cogxta"
+git push --set-upstream origin master
+
+git config --list --show-origin
